@@ -11,7 +11,9 @@ public class ClickandHoldTheAutomatedTester {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+/**
+ * @author skidiyoo
+ */
 		
 		System.setProperty("webdriver.chrome.driver","./Drivers/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();      
