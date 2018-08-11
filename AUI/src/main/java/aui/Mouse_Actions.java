@@ -27,6 +27,7 @@ public static void main(String[] args) throws InterruptedException
 	{			
 	/** 
 	 * Click and Hold action with mouse
+	 * @author hansul fathima
 	 */
 		System.setProperty("webdriver.chrome.driver","./Drivers/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();      

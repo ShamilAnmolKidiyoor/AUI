@@ -12,7 +12,8 @@ public class ClickandHoldTheAutomatedTester {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 /**
- * @author hansul fathima
+ * @author skidiyoo
+>>>>>>> branch 'master' of https://github.com/ShamilAnmolKidiyoor/AUI
  */
 		
 		System.setProperty("webdriver.chrome.driver","./Drivers/chromedriver.exe");
